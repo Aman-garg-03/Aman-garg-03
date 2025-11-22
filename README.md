@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AMAN GARG</h1>
-<h3 align="center">A passionate QA Automation Engineer and Backend Developer.</h3>
+<h3 align="center">A passionate QA Automation Engineer.</h3>
 
-- 🔭 I'm currently learning **Java Spring Boot.**
+- 🔭 I'm currently learning **GEN - AI Powered Testing Tools.**
 
 - 👯 I'm looking to collaborate on **AI Driven solutions.**
 
